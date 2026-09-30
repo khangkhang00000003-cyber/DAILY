@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<defs><radialGradient id="g" cx="75%" cy="20%"><stop offset="0" stop-color="#ff6570" stop-opacity=".55"/><stop offset=".48" stop-color="#ff6570" stop-opacity=".06"/><stop offset="1" stop-color="#101217" stop-opacity="0"/></radialGradient><linearGradient id="shoe" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#d9dde2"/><stop offset="1" stop-color="#9da3aa"/></linearGradient></defs>
+<rect width="1200" height="760" fill="#101217"/><rect width="1200" height="760" fill="url(#g)"/>
+<g opacity=".08" fill="none" stroke="#fff"><circle cx="840" cy="360" r="260"/><circle cx="840" cy="360" r="205"/><circle cx="840" cy="360" r="150"/></g>
+<path d="M360 440 C475 430 570 350 670 292 C730 257 790 267 845 311 L978 414 C1010 439 1003 481 962 490 L505 551 C415 563 322 514 360 440Z" fill="url(#shoe)" stroke="#08090b" stroke-width="10"/>
+<path d="M432 468 C556 457 664 391 750 334 C783 312 824 314 849 332" fill="none" stroke="#dfe3e7" stroke-width="28" stroke-linecap="round"/>
+<path d="M480 454 L603 437 M520 435 L640 413 M557 412 L674 384" stroke="#8b9198" stroke-width="12" stroke-linecap="round"/>
+<path d="M361 483 C535 516 743 477 968 443" fill="none" stroke="#ff6570" stroke-width="20" stroke-linecap="round"/>
+<text x="70" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="5">SPORTHUB DAILY</text>
+<text x="70" y="155" fill="#ff6570" font-family="Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="3">ZONE 2</text>
+<text x="70" y="195" fill="#aab0b8" font-family="Arial, sans-serif" font-size="18">BUILD YOUR BASE</text>
+</svg>
